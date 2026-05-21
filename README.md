@@ -1,21 +1,21 @@
 # qperform — Backend Server
 
-![Archived](https://img.shields.io/badge/Status-Archived-lightgrey?style=flat)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Archivado](https://img.shields.io/badge/Estado-Archivado-lightgrey?style=flat)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="18" align="absmiddle" /> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="18" align="absmiddle" /> ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-> Node.js backend server for the qperform BPO/CSR operations dashboard.
+> Servidor backend Node.js para el dashboard de operaciones BPO/CSR de qperform.
 
-This is the API layer for the qperform project. For full context on the project, see the main frontend repository: [**qperform_dev**](https://github.com/deadlyrat/qperform_dev).
-
----
-
-## 📋 Purpose
-
-Lightweight Node.js server providing the REST API consumed by the `qperform_dev` frontend. Handles data proxying from Microsoft Dataverse and business logic for dashboard metrics.
+Esta es la capa API del proyecto qperform. Para contexto completo del proyecto, ver el repositorio principal del frontend: [**qperform_dev**](https://github.com/deadlyrat/qperform_dev).
 
 ---
 
-## ⚠️ Status
+## Proposito
 
-**Archived** — development paused when author changed companies. Published for portfolio reference.
+Servidor Node.js liviano que provee la API REST consumida por el frontend `qperform_dev`. Maneja el proxy de datos desde Microsoft Dataverse y la logica de negocio para las metricas del dashboard.
+
+---
+
+## Estado
+
+**Archivado** — desarrollo pausado al cambiar de empresa. Publicado como referencia de portfolio.
